@@ -29,3 +29,11 @@ i = e & f
 print('e和f中都有的元素：', i)
 j = e ^ f
 print('存在e或f中，但不同时存在的元素：', j)
+
+
+print('--' * 20 + '从集合里弹出元素和添加元素:')
+k = {'a','e','h','g'}
+k.pop()
+print(k)
+k.add('f')
+print(k)

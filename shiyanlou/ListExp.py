@@ -40,3 +40,10 @@ e = [x**2 for x in [i**2 for i in d]]
 print('嵌套推导式：', e)
 f = [(x, y) for x in [1, 3, 4] for y in [3, 5, 7] if x!=y]
 print('嵌套带条件的推导式：', f)
+
+
+print('--' * 20 + '想要获取列表值同时获取对应索引号，可以用enumerate()')
+for i, j in enumerate(['a', 'b', 'c']):
+    print(i, j)
+
+
