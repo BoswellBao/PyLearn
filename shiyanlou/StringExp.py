@@ -12,7 +12,7 @@ print(d)
 
 print('----------isalnum判断字符串中的字符是否都是字母数字：')
 e = 'adfe df'
-f = 'fsafsf'
+f = 'fsafs1'
 print(e.isalnum(), f.isalnum())
 
 
@@ -50,5 +50,14 @@ print(m.find('fora'))
 print('----------startswith和endswith判断开头是否由指定字符串开始结尾：')
 print(m.startswith("fa"))
 print(m.endswith('aon'))
+
+
+######把字符串中的所有数字组成新字符串
+str = 'feug183fn5r28nr6vj3n3jng71fe'
+num_str = ''
+for i in str:
+    if i.isdigit():
+        num_str = num_str + i
+print(num_str)
 
 
