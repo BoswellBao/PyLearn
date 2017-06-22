@@ -1,3 +1,4 @@
-a = 'abcd'
-b = a[::-1]
-print(b)
+import sys, os
+a = 'hello'
+print(sys.argv)
+os.system(sys.argv[1])
