@@ -1,4 +1,2 @@
-import sys, os
-a = 'hello'
-print(sys.argv)
-os.system(sys.argv[1])
+import sys
+print(sys.argv[0])
