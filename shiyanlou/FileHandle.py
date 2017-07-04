@@ -3,8 +3,8 @@
 "w"，以写入模式打开，如果文件存在将会删除里面的所有内容，然后打开这个文件进行写入
 "a"，以追加模式代开，写入到文件中的任何数据将自动添加到末尾
 '''
-filepath1 = 'C:\\Users\\Administrator\\PycharmProjects\\PyLearn\\ForFileHandle1.txt'
-filepath2 = 'C:\\Users\\Administrator\\PycharmProjects\\PyLearn\\ForFileHandle2.txt'
+filepath1 = 'C:\\Users\\Administrator\\PycharmProjects\\PyLearn\\shiyanlou\\ForFileHandle1.txt'
+filepath2 = 'C:\\Users\\Administrator\\PycharmProjects\\PyLearn\\shiyanlou\\ForFileHandle2.txt'
 
 print('用open()打开文件，close()关闭文件：')
 a = open(filepath1, 'r')
