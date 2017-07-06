@@ -10,18 +10,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PyLearn$Unittests_in_nimab_py.coverage" NAME="Unittests in nimab.py Coverage Results" MODIFIED="1499222495871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
     <SUITE FILE_PATH="coverage/untitled$IteratorsExp.coverage" NAME="IteratorsExp Coverage Results" MODIFIED="1498290961727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyanlou" />
     <SUITE FILE_PATH="coverage/untitled$GeneratorsExp.coverage" NAME="GeneratorsExp Coverage Results" MODIFIED="1498294944308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyanlou" />
     <SUITE FILE_PATH="coverage/untitled$ExceptionExp.coverage" NAME="ExceptionExp Coverage Results" MODIFIED="1498211720834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyanlou" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp15.coverage" NAME="Exp15 Coverage Results" MODIFIED="1499168559930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
+    <SUITE FILE_PATH="coverage/PyLearn$checkQQOnline.coverage" NAME="checkQQOnline Coverage Results" MODIFIED="1499222518491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp12.coverage" NAME="Exp12 Coverage Results" MODIFIED="1499160607945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp8.coverage" NAME="Exp8 Coverage Results" MODIFIED="1499154521127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
     <SUITE FILE_PATH="coverage/untitled$Unittests_in_GetTVChannal__2_.coverage" NAME="Unittests in GetTVChannal (2) Coverage Results" MODIFIED="1497455882578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp2.coverage" NAME="Exp2 Coverage Results" MODIFIED="1499140908832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
+    <SUITE FILE_PATH="coverage/PyLearn$Unittests_in_cases.coverage" NAME="Unittests in cases Coverage Results" MODIFIED="1499220667173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
+    <SUITE FILE_PATH="coverage/PyLearn$Unittests_for_runCases_Run_run.coverage" NAME="Unittests for runCases.Run.run Coverage Results" MODIFIED="1499222827420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp" />
     <SUITE FILE_PATH="coverage/untitled$debug.coverage" NAME="debug Coverage Results" MODIFIED="1498218378081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEBUG" />
     <SUITE FILE_PATH="coverage/untitled$Unittests_in_getTVChannal__3_.coverage" NAME="Unittests in getTVChannal (3) Coverage Results" MODIFIED="1497369773280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
     <SUITE FILE_PATH="coverage/untitled$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1497786598873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyanlou" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp5.coverage" NAME="Exp5 Coverage Results" MODIFIED="1499151538557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
+    <SUITE FILE_PATH="coverage/PyLearn$dbtest.coverage" NAME="dbtest Coverage Results" MODIFIED="1499222615491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
+    <SUITE FILE_PATH="coverage/PyLearn$seleniumDemo.coverage" NAME="seleniumDemo Coverage Results" MODIFIED="1499225571205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEBUG" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp13.coverage" NAME="Exp13 Coverage Results" MODIFIED="1499163465387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp1.coverage" NAME="Exp1 Coverage Results" MODIFIED="1499137922333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp19.coverage" NAME="Exp19 Coverage Results" MODIFIED="1499218267286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
@@ -30,6 +36,7 @@
     <SUITE FILE_PATH="coverage/untitled$Unittests_in_testDDT.coverage" NAME="Unittests in testDDT Coverage Results" MODIFIED="1497284293383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp7.coverage" NAME="Exp7 Coverage Results" MODIFIED="1499153539237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
     <SUITE FILE_PATH="coverage/untitled$Unittest_testDDT_test_ddt.coverage" NAME="Unittest testDDT.test_ddt Coverage Results" MODIFIED="1497284320206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyLearn$Unittests_in_MyPyExp.coverage" NAME="Unittests in MyPyExp Coverage Results" MODIFIED="1499220444842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp6.coverage" NAME="Exp6 Coverage Results" MODIFIED="1499156683698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
     <SUITE FILE_PATH="coverage/untitled$ClassExp.coverage" NAME="ClassExp Coverage Results" MODIFIED="1498215619162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyanlou" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp18.coverage" NAME="Exp18 Coverage Results" MODIFIED="1499215749084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
@@ -41,6 +48,7 @@
     <SUITE FILE_PATH="coverage/untitled$ListExp.coverage" NAME="ListExp Coverage Results" MODIFIED="1497884619395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyanlou" />
     <SUITE FILE_PATH="coverage/untitled$Unittests_in_GetTVChannal__1_.coverage" NAME="Unittests in GetTVChannal (1) Coverage Results" MODIFIED="1497455668422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp3.coverage" NAME="Exp3 Coverage Results" MODIFIED="1499146540311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
+    <SUITE FILE_PATH="coverage/PyLearn$Unittests_in_runCases_py.coverage" NAME="Unittests in runCases.py Coverage Results" MODIFIED="1499239899778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp" />
     <SUITE FILE_PATH="coverage/untitled$StringExp.coverage" NAME="StringExp Coverage Results" MODIFIED="1497973341000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyanlou" />
     <SUITE FILE_PATH="coverage/untitled$Unittests_in_debug.coverage" NAME="Unittests in debug Coverage Results" MODIFIED="1497364157140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$Unittests_in_GetTVChannal.coverage" NAME="Unittests in GetTVChannal Coverage Results" MODIFIED="1497457206615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
@@ -50,14 +58,17 @@
     <SUITE FILE_PATH="coverage/PyLearn$Exp11.coverage" NAME="Exp11 Coverage Results" MODIFIED="1499156785480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
     <SUITE FILE_PATH="coverage/untitled$readExcel.coverage" NAME="readExcel Coverage Results" MODIFIED="1497275964301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/common" />
     <SUITE FILE_PATH="coverage/untitled$utrunner.coverage" NAME="utrunner Coverage Results" MODIFIED="1497455462237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pycharm" />
-    <SUITE FILE_PATH="coverage/PyLearn$debug.coverage" NAME="debug Coverage Results" MODIFIED="1499215709273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEBUG" />
+    <SUITE FILE_PATH="coverage/PyLearn$debug.coverage" NAME="debug Coverage Results" MODIFIED="1499340832621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEBUG" />
     <SUITE FILE_PATH="coverage/untitled$ModuleExp.coverage" NAME="ModuleExp Coverage Results" MODIFIED="1498287615081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyanlou" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp17.coverage" NAME="Exp17 Coverage Results" MODIFIED="1499170428929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp14.coverage" NAME="Exp14 Coverage Results" MODIFIED="1499217235198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
+    <SUITE FILE_PATH="coverage/PyLearn$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1499222203009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp16.coverage" NAME="Exp16 Coverage Results" MODIFIED="1499169803059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
+    <SUITE FILE_PATH="coverage/PyLearn$runCases.coverage" NAME="runCases Coverage Results" MODIFIED="1499343402662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp" />
     <SUITE FILE_PATH="coverage/untitled$Unittests_in_getTVChannal__4_.coverage" NAME="Unittests in getTVChannal (4) Coverage Results" MODIFIED="1497369780953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp4.coverage" NAME="Exp4 Coverage Results" MODIFIED="1499150277845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
     <SUITE FILE_PATH="coverage/untitled$Unittest_GetTVChannal_test_getTVChannal.coverage" NAME="Unittest GetTVChannal.test_getTVChannal Coverage Results" MODIFIED="1497457200588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
+    <SUITE FILE_PATH="coverage/PyLearn$Unittests_in_getTVChannal_py.coverage" NAME="Unittests in getTVChannal.py Coverage Results" MODIFIED="1499220678326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
     <SUITE FILE_PATH="coverage/untitled$Set.coverage" NAME="Set Coverage Results" MODIFIED="1497881776160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyanlou" />
     <SUITE FILE_PATH="coverage/untitled$Unittest_GetTVChannal_test_getTVChannal__1_.coverage" NAME="Unittest GetTVChannal.test_getTVChannal (1) Coverage Results" MODIFIED="1497364075002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../MyPyExp/cases" />
     <SUITE FILE_PATH="coverage/PyLearn$Exp9.coverage" NAME="Exp9 Coverage Results" MODIFIED="1499154667602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runnob100" />
@@ -81,31 +92,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exp19.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runnob100/Exp19.py">
+      <file leaf-file-name="runCases.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyPyExp/runCases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="100">
+              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exp20.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/runnob100/Exp20.py">
+      <file leaf-file-name="MyHTMLTestRunner.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/Python36/Lib/MyHTMLTestRunner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="213">
+              <caret line="633" column="0" lean-forward="true" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="debug.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="debug.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DEBUG/debug.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,10 +133,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>+</find>
-      <find>data</find>
-      <find>get</find>
-      <find>counter</find>
+      <find>fail</find>
+      <find>ft</find>
+      <find>failClass</find>
+      <find>showOutput</find>
+      <find>showClassDetail</find>
+      <find>count</find>
+      <find>complete_output</find>
+      <find>pre</find>
+      <find>html_escape</find>
+      <find>output_list[id]</find>
+      <find>output_list</find>
+      <find>Array</find>
+      <find>REPORT_CLASS_TMPL</find>
+      <find>TMPL</find>
+      <find>REPORT_TEST_WITH_OUTPUT_TMPL</find>
+      <find>Start Time</find>
+      <find>Test Group/Test case</find>
+      <find>Pass</find>
+      <find>pass</find>
+      <find>detail</find>
+      <find>错误</find>
+      <find>REPORT_TMPL</find>
+      <find>REPORT_TEST_OUTPUT_TMPL</find>
+      <find>_generate_report_test</find>
+      <find>tmpl</find>
+      <find>rows</find>
+      <find>_generate_report</find>
+      <find>HTML_TMPL</find>
+      <find>result_table</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,7 +194,6 @@
         <option value="$PROJECT_DIR$/shiyanlou/ModuleExp.py" />
         <option value="$PROJECT_DIR$/shiyanlou/IteratorsExp.py" />
         <option value="$PROJECT_DIR$/shiyanlou/GeneratorsExp.py" />
-        <option value="$PROJECT_DIR$/../MyPyExp/cases/getTVChannal.py" />
         <option value="$PROJECT_DIR$/../MyPyExp/common/readExcel.py" />
         <option value="$PROJECT_DIR$/shiyanlou/FileHandle.py" />
         <option value="$PROJECT_DIR$/runnob100/exp1.py" />
@@ -178,11 +214,17 @@
         <option value="$PROJECT_DIR$/runnob100/Exp15.py" />
         <option value="$PROJECT_DIR$/runnob100/Exp16.py" />
         <option value="$PROJECT_DIR$/runnob100/Exp17.py" />
-        <option value="$PROJECT_DIR$/DEBUG/debug.py" />
         <option value="$PROJECT_DIR$/runnob100/Exp18.py" />
         <option value="$PROJECT_DIR$/runnob100/Exp14.py" />
         <option value="$PROJECT_DIR$/runnob100/Exp19.py" />
         <option value="$PROJECT_DIR$/runnob100/Exp20.py" />
+        <option value="$PROJECT_DIR$/../MyPyExp/cases/nimab.py" />
+        <option value="F:/Python36/Lib/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/../MyPyExp/runCases.py" />
+        <option value="$PROJECT_DIR$/../MyPyExp/cases/getTVChannal.py" />
+        <option value="$PROJECT_DIR$/../MyPyExp/cases/checkQQOnline.py" />
+        <option value="$PROJECT_DIR$/DEBUG/debug.py" />
+        <option value="F:/Python36/Lib/MyHTMLTestRunner.py" />
       </list>
     </option>
   </component>
@@ -213,8 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,7 +263,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="MyPyExp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="PyLearn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyPyExp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="result" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -234,35 +288,19 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PyLearn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="runnob100" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyLearn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyLearn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DEBUG" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-0.6.0/resources/app/git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyPyExp/runCases.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -271,6 +309,8 @@
       <recent name="C:\Users\baoqi\PycharmProjects\untitled\DEBUG" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\MyPyExp" />
+      <recent name="E:\GitHub\MyPyExp\cases" />
       <recent name="C:\Users\baoqi\PycharmProjects\MyPyExp\cases" />
       <recent name="C:\Users\baoqi\PycharmProjects\untitled" />
     </key>
@@ -287,24 +327,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exp20">
-    <configuration default="false" name="Exp18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.runCases">
+    <configuration default="false" name="Unittests for runCases.Run.run" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runnob100" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="F:\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MyPyExp" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
+      <module name="MyPyExp" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runnob100/Exp18.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;runCases.Run.run&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
     <configuration default="false" name="debug" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -313,7 +351,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="F:\Python36\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEBUG" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -326,58 +364,42 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Exp14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="seleniumDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runnob100" />
+      <option name="SDK_HOME" value="F:\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEBUG" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runnob100/Exp14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEBUG/seleniumDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Exp19" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runnob100" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runnob100/Exp19.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PyLearn/test.html">
       <method />
     </configuration>
-    <configuration default="false" name="Exp20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="runCases" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runnob100" />
+      <option name="SDK_HOME" value="F:\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MyPyExp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
+      <module name="MyPyExp" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runnob100/Exp20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../MyPyExp/runCases.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -453,7 +475,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="F:\Python36\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -536,15 +558,16 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="F:\Python36\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
+      <module name="MyPyExp" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../MyPyExp/runCases.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
@@ -565,20 +588,55 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Exp18" />
-      <item index="1" class="java.lang.String" itemvalue="Python.debug" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Exp14" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Exp19" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Exp20" />
+    <configuration default="false" name="Unittests in runCases.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="F:\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MyPyExp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyPyExp" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../MyPyExp/runCases.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in MyPyExp" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MyPyExp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../MyPyExp&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in runCases.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in MyPyExp" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for runCases.Run.run" />
+      <item index="3" class="java.lang.String" itemvalue="Python.debug" />
+      <item index="4" class="java.lang.String" itemvalue="Python.seleniumDemo" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="6" class="java.lang.String" itemvalue="Python.runCases" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Exp20" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Exp19" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Exp14" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Exp18" />
-        <item index="4" class="java.lang.String" itemvalue="Python.debug" />
+        <item index="0" class="java.lang.String" itemvalue="Python.runCases" />
+        <item index="1" class="java.lang.String" itemvalue="Python.debug" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+        <item index="3" class="java.lang.String" itemvalue="Python.seleniumDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for runCases.Run.run" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -616,35 +674,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_GetTVChannal_test_getTVChannal - 2017.06.15 at 00h 19m 58s.xml">
-      <configuration name="Unittest GetTVChannal.test_getTVChannal" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 16m 45s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_GetTVChannal_test_getTVChannal - 2017.06.15 at 00h 20m 00s.xml">
-      <configuration name="Unittest GetTVChannal.test_getTVChannal" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 16m 52s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_GetTVChannal_test_getTVChannal - 2017.06.15 at 00h 20m 03s.xml">
-      <configuration name="Unittest GetTVChannal.test_getTVChannal" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 16m 58s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GetTVChannal - 2017.06.15 at 00h 00m 50s.xml">
-      <configuration name="Unittests in GetTVChannal" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 17m 04s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GetTVChannal - 2017.06.15 at 00h 17m 31s.xml">
-      <configuration name="Unittests in GetTVChannal" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 17m 09s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GetTVChannal - 2017.06.15 at 00h 20m 07s.xml">
-      <configuration name="Unittests in GetTVChannal" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 20m 04s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GetTVChannal_(1) - 2017.06.14 at 23h 54m 29s.xml">
-      <configuration name="Unittests in GetTVChannal (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 20m 38s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_GetTVChannal_(2) - 2017.06.14 at 23h 58m 03s.xml">
-      <configuration name="Unittests in GetTVChannal (2)" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 23m 34s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_getTVChannal - 2017.06.26 at 22h 24m 51s.xml">
-      <configuration name="Unittests in getTVChannal" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 31m 03s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_getTVChannal_(1) - 2017.06.26 at 22h 42m 38s.xml">
-      <configuration name="Unittests in getTVChannal (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_runCases_py - 2017.07.05 at 15h 31m 40s.xml">
+      <configuration name="Unittests in runCases.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -658,30 +716,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13113007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45070422" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13486141" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997833" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28320527" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" x="0" y="364" width="1916" height="311" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -693,189 +751,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DEBUG/debug.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEBUG/ddtExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MyPyExp/cases/getTVChannal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1018831221/builtins.py" />
-    <entry file="file://C:/Softwares/python3.6/Lib/site-packages/ddt.py" />
-    <entry file="file://$PROJECT_DIR$/DEBUG/ddtExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="184" column="77" lean-forward="true" selection-start-line="184" selection-start-column="77" selection-end-line="184" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/Fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/TupleExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/DictExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/StringExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/ListExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MyPyExp/common/writeExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/FunctionExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/ExceptionExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Softwares/python3.6/Lib/collections/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/shiyanlou/ModuleExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MyPyExp/common/httpRequests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/IteratorsExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/GeneratorsExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="18" column="68" lean-forward="false" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MyPyExp/common/readExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MyPyExp/cases/getTVChannal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runnob100/Exp2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/Set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiyanlou/FileHandle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runnob100/Exp1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runnob100/Exp3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shiyanlou/ClassExp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-69">
@@ -985,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -993,15 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1291105237/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="3582" column="79" lean-forward="true" selection-start-line="3582" selection-start-column="79" selection-end-line="3582" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1009,15 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DEBUG/debug.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1025,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1033,14 +893,212 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/runnob100/Exp20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python36/Lib/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python36/Lib/unittest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1025">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/cases/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/cases/checkQQOnline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/cases/dbtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/seleniumDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/common/readExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/common/writeExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/common/constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python36/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="563" column="14" lean-forward="false" selection-start-line="563" selection-start-column="8" selection-end-line="563" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/.test.html" />
+    <entry file="file://F:/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/2017-07-05 15-01-54 report.html" />
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/result/2017-07-05 15-33-40 report.html" />
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/result/2017-07-05 15-38-40 report.html" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1291105237/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="629" column="6" lean-forward="false" selection-start-line="629" selection-start-column="0" selection-end-line="629" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1291105237/_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1206" column="8" lean-forward="false" selection-start-line="1206" selection-start-column="8" selection-end-line="1206" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/HTMLTestRunnerChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="763" column="29" lean-forward="true" selection-start-line="763" selection-start-column="8" selection-end-line="763" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/result/2017-07-05 19-51-48 report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python36/Lib/HTMLTestRunner.py" />
+    <entry file="file://F:/Python36/Lib/xml/sax/saxutils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/result/2017-07-06 08-41-23 report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python36/Lib/site-packages/ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1291105237/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="4917" column="8" lean-forward="false" selection-start-line="4917" selection-start-column="8" selection-end-line="4917" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/cases/getTVChannal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/cases/checkQQOnline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyPyExp/runCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python36/Lib/MyHTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="633" column="0" lean-forward="true" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEBUG/debug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
