@@ -10,3 +10,4 @@ print(list2)
 
 list3 = list1[:]    # 简单
 print(list3)
+
