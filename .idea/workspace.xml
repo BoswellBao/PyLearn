@@ -130,8 +130,8 @@
       <file leaf-file-name="testlinkExp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mytestlink/testlinkExp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="197" column="63" lean-forward="true" selection-start-line="197" selection-start-column="63" selection-end-line="197" selection-end-column="63" />
+            <state relative-caret-position="114">
+              <caret line="203" column="60" lean-forward="false" selection-start-line="203" selection-start-column="60" selection-end-line="203" selection-end-column="60" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -142,7 +142,7 @@
       <file leaf-file-name="testlinkapigeneric.py" pinned="false" current-in-tab="false">
         <entry file="file://F:/Python36/Lib/site-packages/testlink/testlinkapigeneric.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
+            <state relative-caret-position="1089">
               <caret line="629" column="8" lean-forward="false" selection-start-line="629" selection-start-column="8" selection-end-line="629" selection-end-column="8" />
               <folding />
             </state>
@@ -1218,7 +1218,7 @@
     </entry>
     <entry file="file://F:/Python36/Lib/site-packages/testlink/testlinkapigeneric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
+        <state relative-caret-position="1089">
           <caret line="629" column="8" lean-forward="false" selection-start-line="629" selection-start-column="8" selection-end-line="629" selection-end-column="8" />
           <folding />
         </state>
@@ -1226,8 +1226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mytestlink/testlinkExp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="197" column="63" lean-forward="true" selection-start-line="197" selection-start-column="63" selection-end-line="197" selection-end-column="63" />
+        <state relative-caret-position="114">
+          <caret line="203" column="60" lean-forward="false" selection-start-line="203" selection-start-column="60" selection-end-line="203" selection-end-column="60" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
