@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../MyPyExp/.idea/MyPyExp.iml" filepath="$PROJECT_DIR$/../MyPyExp/.idea/MyPyExp.iml" />
+      <module fileurl="file://F:/PyDebug/.idea/PyDebug.iml" filepath="F:/PyDebug/.idea/PyDebug.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PySelenium/.idea/PySelenium.iml" filepath="$PROJECT_DIR$/../PySelenium/.idea/PySelenium.iml" />
       <module fileurl="file://F:\blog\.idea\blog.iml" filepath="F:\blog\.idea\blog.iml" />
       <module fileurl="file://F:\myblog\.idea\blog.iml" filepath="F:\myblog\.idea\blog.iml" />
+      <module fileurl="file://C:\Users\lenovo\Desktop\gosun\.idea\gosun.iml" filepath="C:\Users\lenovo\Desktop\gosun\.idea\gosun.iml" />
       <module fileurl="file://F:/myblog/.idea/myblog.iml" filepath="F:/myblog/.idea/myblog.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/robot/.idea/robot.iml" filepath="$USER_HOME$/PycharmProjects/robot/.idea/robot.iml" />
+      <module fileurl="file://C:/Program Files (x86)/testlinkHelper/.idea/testlinkHelper.iml" filepath="C:/Program Files (x86)/testlinkHelper/.idea/testlinkHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
     </modules>
   </component>
